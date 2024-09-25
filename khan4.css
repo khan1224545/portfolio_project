@@ -1,5 +1,6 @@
 *{
     margin: 0;
+    box-sizing: border-box;
     padding: 0;
 }
 .nev{
@@ -544,25 +545,28 @@ footer a{
     }
     .middle h1{
         font-size: 40px;
+        margin-left: -20px;
     }
     .middle h2{
         font-size: 30px;
+        margin-left: -20px;
     }
     .middle h3{
         font-size: 25px;
+        margin-left: -20px;
     }
     footer{
         font-size: 16px;
     }
     .nev h2{
     margin-top: 0;
-    font-size: 30px;
     width: 100%;
     text-align: center;
     margin-left:0px;
 }
     ul a{
         font-size: 20px;
+        display:none;
     }
     ul{ 
         padding: 5px;
@@ -581,6 +585,7 @@ footer a{
     }
     .paragraph{
         padding-inline: 30px;
+        margin-left:0;
     }
     .padd{
         padding-left: 15px;
@@ -588,4 +593,9 @@ footer a{
     .boxs{
         padding-inline: 20px;
     }
+    .main1{
+        padding-inline: 20px;
+    }
+    .middle{
+        padding-inline:20px;
     }
