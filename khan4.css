@@ -552,7 +552,7 @@ footer a{
         font-size: 25px;
     }
     footer{
-        font-size: 25px;
+        font-size: 16px;
     }
     .nev h2{
     margin-top: 0;
@@ -572,5 +572,20 @@ footer a{
     }
     .nev{
         padding-bottom: 0;
+    }
+    .main_1{
+        padding-inline: 20px;
+    }
+    .text{
+        padding-inline: 20px;
+    }
+    .paragraph{
+        padding-inline: 30px;
+    }
+    .padd{
+        padding-left: 15px;
+    }
+    .boxs{
+        padding-inline: 20px;
     }
     }
